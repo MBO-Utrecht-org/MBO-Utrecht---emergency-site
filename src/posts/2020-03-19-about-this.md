@@ -1,6 +1,6 @@
 ---
 title: "About MBO Utrecht"
-date: 2020-03-19T16:00
+date: 2022-10-31T10:00
 ---
 
 In case of emergency, many organizations need a quick way to publish critical information. Existing CMS websites are often unable to handle sudden spikes in traffic, and local infrastructure might be damaged, leaving people with poor mobile connections.
