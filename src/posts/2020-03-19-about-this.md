@@ -1,5 +1,5 @@
 ---
-title: "About this template"
+title: "About MBO Utrecht"
 date: 2020-03-19T16:00
 ---
 
