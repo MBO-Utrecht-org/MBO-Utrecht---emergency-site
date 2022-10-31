@@ -1,24 +1,21 @@
 ---
-title: Crisis information example post
-date: 2020-03-22T14:00
+title: "Over MBO Utrecht"
+date: 2022-10-31T10:00
 ---
 
-This is an example of how to publish critical information as posts on this website.
+# Over MBO Utrecht
+[Read more about MBO Utrecht in English](/posts/2022-10-31-about-mboutrecht/).
 
-## Coronavirus (COVID-19): what you need to do
+**MBO Utrecht wil jou helpen in de ontwikkeling van student tot zelfbewuste professional. Wij geven jou meer dan een opleiding en leren je meer dan een vak. Er is veel aandacht voor de ontwikkeling van talent, arbeidsvaardigheden, ondernemend gedrag, maatschappelijke betrokkenheid, respect voor elkaar en burgerschap.**
 
-* Stay at home
-* Only go outside for food, health reasons or work (but only if you cannot work from home)
-* Stay 2 meters (6ft) away from other people
-* Wash your hands as soon as you get home
-* You can spread the virus even if you don’t have symptoms.
+### 1. Kleinschalige school & betrokken docenten
+Bij MBO Utrecht kun je op goed bereikbare locaties wel 50 verschillende opleidingen volgen. Wij zijn een kleinschalige school waar jij je snel thuis zult voelen. Dat komt door onze betrokken docenten die niet alleen aandacht hebben voor jou als persoon, maar ook voor de manier waarop jij leert.
 
-## Staying at home and away from others (social distancing)
+### 2. Ruimte voor maatwerk
+Er is veel ruimte voor maatwerk. We hebben bijvoorbeeld veel doorstroom- en versnellingsmogelijkheden. Maar er is ook ondersteuning wanneer dat nodig is.
 
-The single most important action we can all take, in fighting coronavirus, is to stay at home in order to protect the healthcare system and save lives.
+### 3. Straks een goed opgeleide professional
+Bij ons word je niet alleen opgeleid voor een vak. We vinden het belangrijk dat je naast je opleiding ook vaardigheden leert die je helpen in deze wereld die continu verandert. Zo ben jij straks een goed opgeleide professional die klaar is om in de praktijk aan de slag te gaan.
 
-When we reduce our day-to-day contact with other people, we will reduce the spread of the infection. The most important measures are:
-
-1. Requiring people to stay at home, except for very limited purposes.
-2. Closing certain businesses and venues.
-3. Stopping all gatherings of more than two people in public.
+## Over MBO Utrecht
+MBO Utrecht is een kleinschalige, interconfessionele onderwijsinstelling die doelmatig onderwijs aanbiedt met focus op de hoogste niveaus van het mbo. We bieden met ca. 500 medewerkers ruim 50 mbo-opleidingen aan ongeveer 5.000 studenten, in uiteenlopende de domeinen van het mbo-onderwijs.
