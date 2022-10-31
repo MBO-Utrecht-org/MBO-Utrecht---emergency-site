@@ -30,3 +30,25 @@ At MBO Utrecht, we work on developing knowledge, skills, attitudes, and behavior
 
 *Learning teams*
 Within MBO Utrecht, teams form an inspiring learning environment for every employee, and learn from each other. Teams strive (not only for themselves, but also together) for continuous improvement of student performance and support processes.
+
+## MBO Utrecht academies
+MBO Utrecht consists of 11 academies and one entry-level course:
+
+* Economy and Business Academy – courses covering trade, commercial, financial, and judicial services
+* Technology Academy – for architecture and engineering students
+* Hospitality & Leisure Academy – courses in tourism and hospitality
+* Herman Brood Academy – courses for artists, managers, and stage technicians
+* Children en education Academy – focuses on careers in education
+* Marketing and Communication Academy – courses preparing for optimum transfers to higher professional education (MHBO)
+* ICT Academy – ICT and network management; programming applications and games
+* Event Academy – course for organizing corporate and cultural events
+* Care and welfare – courses for nurses and caregivers, full-time and part-time and careers in welfare
+* Sports Academy Utrecht – courses on sports and movement
+
+## Locations
+MBO Utrecht has six locations in Utrecht, one in neighboring city Hilversum, and one location in Leerdam.
+
+The best of two worlds aptly describes the Utrecht region. On the one hand, there is the relaxing outdoor Utrecht, with woods, rivers, and seemingly endless polder landscape. On the other, there is lively urban Utrecht, with bustling outdoor cafés, museums, and colorful festivals. It is easy to experience both in a single visit, because they are never more than 15 to 30 minutes apart. (Source: discover-utrecht.nl).
+
+Utrecht is the fourth-largest city and a municipality of the Netherlands, being the capital and most populous city of the province of Utrecht. It is located in the very center of The Netherlands and it had a population of 357,694 as of 2020. Utrecht’s ancient city center features many buildings and structures, several dating as far back as the High Middle Ages. It has been the religious center of the Netherlands since the 8th century. Utrecht is host to Utrecht University, the largest university in the Netherlands, as well as several other institutions of higher education. Due to its central position within the country, it is an important transport hub for both rail and road transport. It has the second highest number of cultural events in the Netherlands, after Amsterdam. (Source: [energy-cities.eu/members/city-of-utrecht/](energy-cities.eu/members/city-of-utrecht/)).
+
